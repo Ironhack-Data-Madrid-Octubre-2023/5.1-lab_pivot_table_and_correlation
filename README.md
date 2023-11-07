@@ -2,6 +2,8 @@
 
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
+MARINA LUQUE
+
 # Lab | Pivot Table and Correlations
 
 
